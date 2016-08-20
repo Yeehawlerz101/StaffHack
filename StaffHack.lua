@@ -81,7 +81,11 @@ MsgC( red,[[
 
 ]])
 
-
+chat.AddText( red, "Staff Hack")
+chat.AddText( red, "Version: 0.X")
+chat.AddText( black, "Made by Yee<3 & Mikopy")
+chat.AddText( black, "Get updates from")
+chat.AddText( white, "https://goo.gl/1HZuRW")
 
 
 SHackmessages = {}
