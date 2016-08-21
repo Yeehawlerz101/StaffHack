@@ -108,5 +108,3 @@ end
 end
 
 timer.Create("chattimer", 50, 0, OOCchats)
-
-
